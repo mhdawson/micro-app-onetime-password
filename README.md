@@ -4,7 +4,7 @@ Micro app to generate onetime passwords needed to login to services
 like github when two-factor authentication is enabled.
 
 **Note since the totp password is easily obtained from the browser once the app is started, it is only
-suitable where you have good physical control over the client, for example the computer in
+suitable where you have good physical control over the client (as well as the server of course), for example the computer in
 your house.**
 
 ![sample onetime password page](https://raw.githubusercontent.com/mhdawson/micro-app-onetime-password/master/pictures/onetime-password-window.jpg)
