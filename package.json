@@ -1,0 +1,38 @@
+{
+  "name": "micro-app-onetime-password",
+  "version": "1.0.0",
+  "description": "Simple micro-app to generate onetime passwords",
+  "main": "lib/server.js",
+  "scripts": {
+    "start": "node lib/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "micro-app-framework": "^0.1.0",
+    "jssha": "~2.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdawson/micro-app-onetime-password.git"
+  },
+  "keywords": [
+    "onetime",
+    "password",
+    "authentication",
+    "micro-app"
+  ],
+  "author": {
+    "name": "Michael Dawson"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mhdawson/micro-app-onetime-password/issues"
+  },
+  "homepage": "https://github.com/mhdawson/micro-app-onetime-password#readme",
+  "contributors": [
+    {
+      "name": "Michael Dawson",
+      "email": "mdawson@devrus.com"
+    }
+  ]
+}

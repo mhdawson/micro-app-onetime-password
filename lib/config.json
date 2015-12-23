@@ -1,0 +1,7 @@
+{
+  "totp_secret": "encrypted value",
+  "tls": "true",
+  "authenticate": "true",
+  "authInfo": { "username": "onetime", "password": "hashedvalue", "realm": "onetime" }
+}
+
